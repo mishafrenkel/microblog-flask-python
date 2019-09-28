@@ -1,0 +1,7 @@
+.flaskenv
+app/__pycache__
+.vscode
+__pycache__
+venv
+config.py
+app/__pycache__/__init__.cpython-37.pyc
